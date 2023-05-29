@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Busco aumentar mis conocimientos y aplicarlos para beneficio de la empresa que requiera mis servicios, me estoy especializando en Angular CLI, Node.js , TypeScript, JavaScript, Sql
+
 <!--
 **ElafAspri/ElafAspri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
