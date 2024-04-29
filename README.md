@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eleazar</h1>
-<h3 align="center">A passionate full stack developer from Venezuela</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <a href="https://twitter.com/retoky_o" target="blank"><img src="https://img.shields.io/twitter/follow/retoky_o?logo=twitter&style=for-the-badge" alt="retoky_o" /></a> </p>
 
