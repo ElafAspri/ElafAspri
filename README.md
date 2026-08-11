@@ -45,13 +45,11 @@
 
 ### 📊 Mis Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elafaspri&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elafaspri&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ElafAspri&show_icons=true&theme=dark&hide_border=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElafAspri&layout=compact&theme=dark&hide_border=true" width="49%" alt="Top Languages" />
+</p>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elafaspri&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ElafAspri&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
